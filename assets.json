@@ -1,5 +1,17 @@
 {
-  "assets": [],
+  "assets": [
+    {
+      "id": "images/6d2bc5ba14db1123dfc834873d5645ef.jpeg",
+      "filename": "6d2bc5ba14db1123dfc834873d5645ef.jpeg",
+      "path": "images/6d2bc5ba14db1123dfc834873d5645ef.jpeg",
+      "folder": "images",
+      "type": "image",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/images/6d2bc5ba14db1123dfc834873d5645ef.jpeg",
+      "created": "2026-10-02",
+      "name": "画画"
+    }
+  ],
   "folders": {
     "categories": [
       "测试"
