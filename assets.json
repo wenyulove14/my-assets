@@ -1,7 +1,9 @@
 {
   "assets": [],
   "folders": {
-    "categories": [],
+    "categories": [
+      "测试"
+    ],
     "assignments": {}
   }
 }
