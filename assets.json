@@ -1,24 +1,11 @@
 {
-  "assets": [
-    {
-      "id": "fonts/AlimamaFangYuanTiVF-Thin.ttf",
-      "filename": "AlimamaFangYuanTiVF-Thin.ttf",
-      "path": "fonts/AlimamaFangYuanTiVF-Thin.ttf",
-      "folder": "fonts",
-      "type": "font",
-      "tags": [],
-      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/AlimamaFangYuanTiVF-Thin.ttf",
-      "created": "2026-10-02",
-      "name": "阿里方圆体"
-    }
-  ],
+  "assets": [],
   "folders": {
     "categories": [
       "测试"
     ],
     "assignments": {
-      "images/1790620710422.png": "测试",
-      "fonts/AlimamaFangYuanTiVF-Thin.ttf": "测试"
+      "images/1790620710422.png": "测试"
     }
   }
 }
