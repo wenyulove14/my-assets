@@ -1,5 +1,17 @@
 {
-  "assets": [],
+  "assets": [
+    {
+      "id": "images/1787931647233.png",
+      "filename": "1787931647233.png",
+      "path": "images/1787931647233.png",
+      "folder": "images",
+      "type": "image",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/images/1787931647233.png",
+      "created": "2026-10-02",
+      "name": "哭"
+    }
+  ],
   "folders": {
     "categories": [
       "表情包"
