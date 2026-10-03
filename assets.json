@@ -120,6 +120,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/music/asset-20261003-b3c775db.mp3",
       "created": "2026-10-03",
       "name": "bubble-水滴"
+    },
+    {
+      "id": "fonts/asset-20261003-612f667c.ttf",
+      "filename": "asset-20261003-612f667c.ttf",
+      "path": "fonts/asset-20261003-612f667c.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/asset-20261003-612f667c.ttf",
+      "created": "2026-10-03",
+      "name": "可爱小熊体"
     }
   ],
   "folders": {
