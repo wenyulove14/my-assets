@@ -131,6 +131,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/asset-20261003-612f667c.ttf",
       "created": "2026-10-03",
       "name": "可爱小熊体"
+    },
+    {
+      "id": "fonts/Thin.ttf",
+      "filename": "Thin.ttf",
+      "path": "fonts/Thin.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/Thin.ttf",
+      "created": "2026-10-05",
+      "name": "未来圆"
     }
   ],
   "folders": {
