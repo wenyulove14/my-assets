@@ -142,6 +142,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/Regular.ttf",
       "created": "2026-10-05",
       "name": "未来圆"
+    },
+    {
+      "id": "fonts/asset-20261008-92fcee6e.ttf",
+      "filename": "asset-20261008-92fcee6e.ttf",
+      "path": "fonts/asset-20261008-92fcee6e.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/asset-20261008-92fcee6e.ttf",
+      "created": "2026-10-08",
+      "name": "仿苹方圆"
     }
   ],
   "folders": {
