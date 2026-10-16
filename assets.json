@@ -153,6 +153,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/asset-20261008-92fcee6e.ttf",
       "created": "2026-10-08",
       "name": "仿苹方圆"
+    },
+    {
+      "id": "music/silence-rwPbZqZ-.mp3",
+      "filename": "silence-rwPbZqZ-.mp3",
+      "path": "music/silence-rwPbZqZ-.mp3",
+      "folder": "music",
+      "type": "audio",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/music/silence-rwPbZqZ-.mp3",
+      "created": "2026-10-16",
+      "name": "静音"
     }
   ],
   "folders": {
