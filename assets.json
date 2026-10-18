@@ -604,6 +604,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/linja-waso.ttf",
       "created": "2026-10-18",
       "name": "仿宋"
+    },
+    {
+      "id": "fonts/asset-20261018-cc706f8a.ttf",
+      "filename": "asset-20261018-cc706f8a.ttf",
+      "path": "fonts/asset-20261018-cc706f8a.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/asset-20261018-cc706f8a.ttf",
+      "created": "2026-10-18",
+      "name": "打字机油印"
     }
   ],
   "folders": {
