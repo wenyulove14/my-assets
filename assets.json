@@ -593,6 +593,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/AaJinRiHuaQing-ChunLanMaoKun-2.ttf",
       "created": "2026-10-16",
       "name": "手写体1"
+    },
+    {
+      "id": "fonts/linja-waso.ttf",
+      "filename": "linja-waso.ttf",
+      "path": "fonts/linja-waso.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/linja-waso.ttf",
+      "created": "2026-10-18",
+      "name": "仿宋"
     }
   ],
   "folders": {
