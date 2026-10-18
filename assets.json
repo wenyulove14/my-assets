@@ -615,6 +615,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/asset-20261018-cc706f8a.ttf",
       "created": "2026-10-18",
       "name": "打字机油印"
+    },
+    {
+      "id": "fonts/YShiWritten-Regular.ttf",
+      "filename": "YShiWritten-Regular.ttf",
+      "path": "fonts/YShiWritten-Regular.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/YShiWritten-Regular.ttf",
+      "created": "2026-10-18",
+      "name": "写意体"
     }
   ],
   "folders": {
