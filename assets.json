@@ -626,6 +626,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/YShiWritten-Regular.ttf",
       "created": "2026-10-18",
       "name": "写意体"
+    },
+    {
+      "id": "fonts/QeoFuHwaSeed-Regular.ttf",
+      "filename": "QeoFuHwaSeed-Regular.ttf",
+      "path": "fonts/QeoFuHwaSeed-Regular.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/QeoFuHwaSeed-Regular.ttf",
+      "created": "2026-10-18",
+      "name": "秋浮花种体"
     }
   ],
   "folders": {
