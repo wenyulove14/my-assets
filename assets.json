@@ -659,6 +659,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/AlimamaFangYuanTiVF-Thin.ttf",
       "created": "2026-10-23",
       "name": "阿里妈妈方圆体"
+    },
+    {
+      "id": "fonts/SweiSpringCJKsc-Regular.ttf",
+      "filename": "SweiSpringCJKsc-Regular.ttf",
+      "path": "fonts/SweiSpringCJKsc-Regular.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/SweiSpringCJKsc-Regular.ttf",
+      "created": "2026-10-23",
+      "name": "狮尾春"
     }
   ],
   "folders": {
