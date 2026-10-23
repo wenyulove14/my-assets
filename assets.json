@@ -670,6 +670,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/SweiSpringCJKsc-Regular.ttf",
       "created": "2026-10-23",
       "name": "狮尾春"
+    },
+    {
+      "id": "fonts/cjkFonts_allseto_v1.11.ttf",
+      "filename": "cjkFonts_allseto_v1.11.ttf",
+      "path": "fonts/cjkFonts_allseto_v1.11.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/cjkFonts_allseto_v1.11.ttf",
+      "created": "2026-10-23",
+      "name": "全濑体"
     }
   ],
   "folders": {
