@@ -714,6 +714,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/68sdbg.ttf",
       "created": "2026-11-06",
       "name": "手写体3"
+    },
+    {
+      "id": "fonts/asset-20261106-97f25b01.ttf",
+      "filename": "asset-20261106-97f25b01.ttf",
+      "path": "fonts/asset-20261106-97f25b01.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/asset-20261106-97f25b01.ttf",
+      "created": "2026-11-06",
+      "name": "小猫咪"
     }
   ],
   "folders": {
