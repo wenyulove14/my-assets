@@ -703,6 +703,17 @@
       "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/Xiaolai-Regular.ttf",
       "created": "2026-10-23",
       "name": "小赖"
+    },
+    {
+      "id": "fonts/68sdbg.ttf",
+      "filename": "68sdbg.ttf",
+      "path": "fonts/68sdbg.ttf",
+      "folder": "fonts",
+      "type": "font",
+      "tags": [],
+      "url": "https://raw.githubusercontent.com/wenyulove14/my-assets/main/fonts/68sdbg.ttf",
+      "created": "2026-11-06",
+      "name": "手写体3"
     }
   ],
   "folders": {
